@@ -2,14 +2,14 @@
 
 This is the backend of the Wardrobe Management System, built using **Laravel 11**. It provides API endpoints for managing clothing items.
 
-## 🚀 Features
+## Features
 - User authentication (login/registration)
 - Add, edit, and delete clothing items
 - Categorize items (tops, bottoms, shoes, etc.)
 - Filter and search functionality
 - REST API for the frontend (Vue 3)
 
-## 🛠 Installation
+## Installation
 
 1. **Clone the repository**  
    ```sh
