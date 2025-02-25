@@ -32,6 +32,9 @@ php artisan migrate
 php artisan serve
 The backend will run on http://127.0.0.1:8000
 
+###License
+This project is open-source under the MIT License.
+
 ###API Endpoints
 Method	Endpoint	Description
 GET	   /api/items	Get all items
